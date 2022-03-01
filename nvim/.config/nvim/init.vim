@@ -1,7 +1,7 @@
-"   _____      _| |__
-"  / _ \ \ /\ / / '_ \	Eric Burden <eric@ericburden.dev>
-" |  __/\ V  V /| |_) |	www.ericburden.work
-"  \___| \_/\_/ |_.__/	www.github.com/ericwburden
+"   _____      
+"  / _     	Lyder Aleksander Mathisen <lyderaleksander@gmail.comv>
+" |       	www.onelyder.com
+"  \___     www.github.com/lyder7
 "  
 "  NVim Configuration
 

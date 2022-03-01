@@ -1,7 +1,7 @@
-#   _____      _| |__
-#  / _ \ \ /\ / / '_ \	Eric Burden <eric@ericburden.dev>
-# |  __/\ V  V /| |_) |	www.ericburden.work
-#  \___| \_/\_/ |_.__/	www.github.com/ericwburden
+#   _____      
+#  / _     	Lyder Aleksander Mathisen <lyderaleksander@gmail.comv>
+# |       	www.onelyder.com
+#  \___     www.github.com/lyder7
 #  
 # zsh config file 
 
@@ -9,8 +9,8 @@
 # => Environment Variables
 ########################################################################################
 
-export ZSH="/home/eric/.oh-my-zsh"
-export PATH="$PATH:/home/eric/.local/bin"
+export ZSH="/home/lyder/.oh-my-zsh"
+export PATH="$PATH:/home/lyder/.local/bin"
 export VISUAL=nvim
 export EDITOR=nvim
 export XDG_CONFIG_HOME=~/.config
